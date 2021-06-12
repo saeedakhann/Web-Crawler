@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<!-- start : Framework/Generic -->
+<!-- start : ocom/common/global/components/framework/head -->
+<head>
+<!-- start : ocom/common/global/components/head -->
+<title>About Oracle | Company Information | Oracle</title>
+<meta content="About Oracle | Company Information | Oracle" name="Title"/>
+<meta content="Oracle is pleased to provide information about our company, customers, partners, events, communities, press, analysts, investors, and careers." name="Description"/>
+<meta content="about oracle, company information, corporate information, oracle news and events, oracle, Oracle @ Oracle, Business Transformation, What is Oracle's mission" name="Keywords"/>
+<meta content="us" name="siteid"/>
+<meta content="US" name="countryid"/>
+<meta content="index, follow" name="robots"/>
+<meta content="United States" name="country"/>
+<meta content="en" name="Language"/>
+<meta content="2020-06-04T18:02:40Z" name="Updated Date"/>
+<script type="text/javascript">
+		var pageData = pageData || {};
+		//page info
+		pageData.pageInfo = pageData.pageInfo || {};
+		pageData.pageInfo.language = "en";
+		pageData.pageInfo.country = "United States";
+		pageData.pageInfo.pageTitle = "About Oracle | Company Information | Oracle";
+		pageData.pageInfo.description = "Oracle is pleased to provide information about our company, customers, partners, events, communities, press, analysts, investors, and careers.";
+		pageData.pageInfo.keywords = "about oracle, company information, corporate information, oracle news and events, oracle, Oracle @ Oracle, Business Transformation, What is Oracle's mission";
+		pageData.pageInfo.siteId = "us";
+		pageData.pageInfo.countryId = "US";
+		pageData.pageInfo.updatedDate = "2020-06-04T18:02:40Z";
+	</script>
+<!-- start : ocom/common/global/components/seo-taxonomy-meta-data-->
+<script type="text/javascript">
+		var pageData = pageData || {};
+		//taxonmy
+		pageData.taxonomy = pageData.taxonomy || {};
+		pageData.taxonomy.productServices = [];
+		pageData.taxonomy.industry = [];
+		pageData.taxonomy.region = [];
+		pageData.taxonomy.contentType = [];
+		pageData.taxonomy.buyersJourney = [];
+		pageData.taxonomy.revenue = [];
+		pageData.taxonomy.title = [];
+		pageData.taxonomy.audience = [];
+		pageData.taxonomy.persona = [];
+	</script>
+<!-- end : ocom/common/global/components/seo-taxonomy-meta-data-->
+<!-- start : ocom/common/global/components/social-media-meta-tags -->
+<!-- end : ocom/common/global/components/social-media-meta-tags -->
+<!-- start : ocom/common/global/components/seo-hreflang-meta-tags --><link href="https://www.oracle.com/corporate/" rel="canonical"/>
+<link href="https://www.oracle.com/ae/corporate/" hreflang="en-AE" rel="alternate"/>
+<link href="https://www.oracle.com/ae-ar/corporate/" hreflang="ar-AE" rel="alternate"/>
+<link href="https://www.oracle.com/ar/corporate/" hreflang="es-AR" rel="alternate"/>
+<link href="https://www.oracle.com/au/corporate/" hreflang="en-AU" rel="alternate"/>
+<link href="https://www.oracle.com/be/corporate/" hreflang="en-BE" rel="alternate"/>
+<link href="https://www.oracle.com/br/corporate/" hreflang="pt-BR" rel="alternate"/>
+<link href="https://www.oracle.com/ca-en/corporate/" hreflang="en-CA" rel="alternate"/>
+<link href="https://www.oracle.com/ca-fr/corporate/" hreflang="fr-CA" rel="alternate"/>
+<link href="https://www.oracle.com/ch-de/corporate/" hreflang="de-CH" rel="alternate"/>
+<link href="https://www.oracle.com/ch-fr/corporate/" hreflang="fr-CH" rel="alternate"/>
+<link href="https://www.oracle.com/cl/corporate/" hreflang="es-CL" rel="alternate"/>
+<link href="https://www.oracle.com/cn/corporate/" hreflang="zh-CN" rel="alternate"/>
+<link href="https://www.oracle.com/co/corporate/" hreflang="es-CO" rel="alternate"/>
+<link href="https://www.oracle.com/cz/corporate/" hreflang="cs-CZ" rel="alternate"/>
+<link href="https://www.oracle.com/de/corporate/" hreflang="de-DE" rel="alternate"/>
+<link href="https://www.oracle.com/corporate/" hreflang="en-US" rel="alternate"/>
+<link href="https://www.oracle.com/es/corporate/" hreflang="es-ES" rel="alternate"/>
+<link href="https://www.oracle.com/fr/corporate/" hreflang="fr-FR" rel="alternate"/>
+<link href="https://www.oracle.com/hk/corporate/" hreflang="en-HK" rel="alternate"/>
+<link href="https://www.oracle.com/id/corporate/" hreflang="en-ID" rel="alternate"/>
+<link href="https://www.oracle.com/ie/corporate/" hreflang="en-IE" rel="alternate"/>
+<link href="https://www.oracle.com/in/corporate/" hreflang="en-IN" rel="alternate"/>
+<link href="https://www.oracle.com/it/corporate/" hreflang="it-IT" rel="alternate"/>
+<link href="https://www.oracle.com/jp/corporate/" hreflang="ja-JP" rel="alternate"/>
+<link href="https://www.oracle.com/kr/corporate/" hreflang="ko-KR" rel="alternate"/>
+<link href="https://www.oracle.com/mx/corporate/" hreflang="es-MX" rel="alternate"/>
+<link href="https://www.oracle.com/nl/corporate/" hreflang="nl-NL" rel="alternate"/>
+<link href="https://www.oracle.com/ph/corporate/" hreflang="en-PH" rel="alternate"/>
+<link href="https://www.oracle.com/pl/corporate/" hreflang="pl-PL" rel="alternate"/>
+<link href="https://www.oracle.com/pt/corporate/" hreflang="pt-PT" rel="alternate"/>
+<link href="https://www.oracle.com/ro/corporate/" hreflang="ro-RO" rel="alternate"/>
+<link href="https://www.oracle.com/ru/corporate/" hreflang="ru-RU" rel="alternate"/>
+<link href="https://www.oracle.com/sa/corporate/" hreflang="en-SA" rel="alternate"/>
+<link href="https://www.oracle.com/sa-ar/corporate/" hreflang="ar-SA" rel="alternate"/>
+<link href="https://www.oracle.com/se/corporate/" hreflang="sv-SE" rel="alternate"/>
+<link href="https://www.oracle.com/sg/corporate/" hreflang="en-SG" rel="alternate"/>
+<link href="https://www.oracle.com/sk/corporate/" hreflang="sk-SK" rel="alternate"/>
+<link href="https://www.oracle.com/tr/corporate/" hreflang="tr-TR" rel="alternate"/>
+<link href="https://www.oracle.com/tw/corporate/" hreflang="zh-TW" rel="alternate"/>
+<link href="https://www.oracle.com/uk/corporate/" hreflang="en-GB" rel="alternate"/>
+<link href="https://www.oracle.com/za/corporate/" hreflang="en-ZA" rel="alternate"/>
+<meta content="ae,ae-ar,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,pt,ro,ru,sa,sa-ar,se,sg,sk,tr,tw,uk,za" name="altpages"/>
+<script type="text/javascript">
+						var pageData = pageData || {};
+						//page info
+						pageData.pageInfo = pageData.pageInfo || {};
+						pageData.pageInfo.altPages = "ae,ae-ar,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,pt,ro,ru,sa,sa-ar,se,sg,sk,tr,tw,uk,za";
+					</script>
+<!-- end : ocom/common/global/components/seo-hreflang-meta-tags -->
+<!-- end : ocom/common/global/components/head -->
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<!-- start : ocom/common/global/components/framework/layoutAssetHeadInfo -->
+<!-- Container/Display Start -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- BEGIN OCOM CSS/JS -->
+<script>
+ !function(){
+ var d=document.documentElement;d.className=d.className.replace(/no-js/,'js');
+ if(document.location.href.indexOf('betamode=') > -1) document.write('<script src="https://www.oracle.com/asset/web/js/ocom-betamode.js"><\/script>');
+ }();
+ </script>
+<link data-wscss="" href="https://www.oracle.com/asset/web/css/redwood-base.css" rel="stylesheet"/>
+<link as="style" data-wscss="" href="https://www.oracle.com/asset/web/css/redwood-styles.css" onerror="this.rel='stylesheet'" onload="this.rel='stylesheet'" rel="preload"/>
+<noscript>
+<link href="https://www.oracle.com/asset/web/css/redwood-styles.css" rel="stylesheet"/>
+</noscript>
+<link as="script" data-reqjq="" data-wsjs="" href="https://www.oracle.com/asset/web/js/redwood-base.js" rel="preload"/>
+<link as="script" data-reqjq="" data-wsjs="" href="https://www.oracle.com/asset/web/js/redwood-lib.js" rel="preload"/>
+<script async="" data-wsjs="" onload="$('head link[data-reqjq][rel=preload]').each(function(){var a = document.createElement('script');a.async=false;a.src=$(this).attr('href');this.parentNode.insertBefore(a, this);});$(function(){$('script[data-reqjq][data-src]').each(function(){this.async=true;this.src=$(this).data('src');});});" src="https://www.oracle.com/asset/web/js/jquery-min.js"></script>
+<!-- END OCOM CSS/JS -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Container/Display end -->
+<!-- Container/Display Start -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- www-us HeadAdminContainer -->
+<link href="https://www.oracle.com/asset/web/favicons/favicon-32.png" rel="icon" sizes="32x32"/>
+<link href="https://www.oracle.com/asset/web/favicons/favicon-128.png" rel="icon" sizes="128x128"/>
+<link href="https://www.oracle.com/asset/web/favicons/favicon-192.png" rel="icon" sizes="192x192"/>
+<link href="https://www.oracle.com/asset/web/favicons/favicon-120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="https://www.oracle.com/asset/web/favicons/favicon-152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="https://www.oracle.com/asset/web/favicons/favicon-180.png" rel="apple-touch-icon" sizes="180x180"/>
+<meta content="#fcfbfa" name="msapplication-TileColor"/>
+<meta content="favicon-128.png" name="msapplication-square70x70logo"/>
+<meta content="favicon-270.png" name="msapplication-square150x150logo"/>
+<meta content="favicon-270.png" name="msapplication-TileImage"/>
+<meta content="none" name="msapplication-config"/>
+<style>
+  #oReactiveChatContainer1 { display:none;}
+  </style>
+<!--DTM embed code - Header -->
+<script src="//assets.adobedtm.com/6f37a0dc9cdbe818dc4979828b58b88e3f060ea4/satelliteLib-e598c5b61e39a10b402e048e87dd27b0f1cd2d4c.js"></script>
+<!--End-->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Container/Display end -->
+<!-- end : ocom/common/global/components/framework/layoutAssetHeadInfo -->
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"","rua.texp":""}]);</script>
+<script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DXNLE-YBWWY-AR74T-WMD99-77VRA",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(c){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"DXNLE-YBWWY-AR74T-WMD99-77VRA";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="zoabelaxblrq6ydupzzq-f-84f8f1f47-clientnsv4-s.akamaihd.net",i={"ak.v":"31","ak.cp":"82485","ak.ai":parseInt("604074",10),"ak.ol":"0","ak.cr":247,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"466f3666","ak.r":15849,"ak.a2":n,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"203.128.18.0","ak.cport":28578,"ak.gh":"23.57.74.80","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1618247283","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==jbegJ4qo0IkmnBBnl+Uhs8wEVDy4Gkw7OaAZ+dn9T4sIGArT+ruHCNtNEOi/e9MVd7IM9wAJWchkiWSTDl1B4wx3Q+uNGmG7agwDaKQ3D5VMbVr3XW42vbEFWBwDeMX60wgsbU95Z3p4x0kcP3owhOyCjwEwRN9ognjGthTQeoLYWvgsPeCTRkwS4r7rs/DTioWnaUNwoyCEwEIpq1zGDbfE85qKt9K1fip37QKHQiXvz7faNwC+sHF9meSA8zXCjXDzA2ATXi562EKjPP9dR3RpzZV/NonP7WyBcW4K1SbdKzeYeIGaSWzPWo8iiWl1dtA0S9O7tDPOEysiT4egZaf/+F+YzRoIomlFJ7q0PxfkKKdmbbMKR42Gfe4DZyxJeeIXr7RvUPzpzXOUV69ED5TDAWOu9cjr8aYxBdNwzMA=","ak.pv":"211","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!o.i){var e=BOOMR.subscribe;e("before_beacon",o.av,null,null),e("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><!-- end : ocom/common/global/components/framework/head --><!-- start : ocom/common/global/components/framework/layoutAssetStartBodyInfo -->
+<body class="f20 f20v0">
+<!-- Container/Display Start -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- www-us StartBodyAdminContainer -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Container/Display end -->
+<div class="f20w1">
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U28v1 -->
+<section class="u28 u28v1 u28adj" data-trackas="header" id="u28">
+<div aria-expanded="false" id="u28skip2content" tabindex="-1">
+<ul>
+<li><a href="https://www.oracle.com/corporate/accessibility/" id="u28acc">Click to view our Accessibility Policy</a></li>
+<li><a href="#maincontent" id="u28skip2c">Skip to content</a></li>
+</ul>
+</div>
+<div class="u28w1">
+<div class="cwidth">
+<div class="u28s1" id="u28s1">
+<a class="u28home rw-logo" data-lbl="logo" href="/">home</a>
+<a class="u28ham" data-lbl="menu" href="/universal-menu/">nav</a>
+</div>
+<div class="u28s2">
+<div class="u28w2">
+<form action="/search/results" class="askoracle" data-contentpaths="/content/Web/Shared/Auto-Suggest Panel Event" data-resultsclose="Close" data-resultscloselabel="Exit Search Results" id="askoracle" method="get" name="askoracle">
+<input name="Nty" type="hidden" value="1"/>
+<input name="Dy" type="hidden" value="1"/>
+<input name="Ntk" type="hidden" value="SI-ALL5"/>
+<input name="cty" type="hidden" value="us"/>
+<input name="lang" type="hidden" value="en"/>
+<div class="u28w3">
+<div class="u28logo rw-logo">
+<span>Oracle</span>
+</div>
+<a class="u28-back rw-cv-left" href="#back" title="Close Search Field">
+<span>Close</span>
+</a>
+<a class="u28-searchicon" href="#search">
+<span>Search</span>
+</a>
+<span class="u28input">
+<input aria-label="Search Oracle.com" autocomplete="off" data-prefix="Ask" id="askoracleinput" name="Ntt" placeholder="Ask" role="combobox" value=""/>
+<span class="u28submit">
+<input class="u28searchbttn" type="submit" value="Submit Search"/>
+</span>
+</span>
+</div>
+</form>
+</div>
+</div>
+<nav class="u28s4">
+<a aria-label="Open Search Field" class="u28search u28navitm" href="#search" id="u28search"><span>Search</span></a>
+<a class="u28navitm" data-target="products" href="#products">Products</a>
+<a class="u28navitm" data-target="industries" href="#industries">Industries</a>
+<a class="u28navitm" data-target="resources" href="#resources">Resources</a>
+<a class="u28navitm" data-target="support" href="#support">Support</a>
+<a class="u28navitm" data-target="events" href="#events">Events</a>
+<a class="u28navitm" data-target="developer" href="#developer">Developer</a>
+</nav>
+<div class="u28s3" id="u28s3">
+<div class="u28-profile">
+<a class="u28prof" data-lbl="sign-in-account" href="#" title="View Accounts"><div class="acttxt">View Accounts</div><span>Sign In</span></a>
+<div class="u28-profilew1">
+<span class="u28actbck u28back">Back</span>
+<span class="u28acttitle">Oracle Account</span>
+<div class="u28-profilew2">
+<span class="u28acttitle">Cloud Account</span>
+<a aria-label="Sign in to Cloud" class="u28cloudbg" data-lbl="go-to-cloud-website" href="/cloud/sign-in.html">Sign in to Cloud</a>
+<a aria-label="Sign Up for Free Cloud Tier" class="u28btn2" data-lbl="cta-0625-nav-header-accounts-free-tier-oci" href="/cloud/free/?source=:ow:o:h:nav:OHP0625ViewAccountsButton&amp;intcmp=:ow:o:h:nav:OHP0625ViewAccountsButton">Sign Up for Free Cloud Tier</a>
+</div>
+<ul class="u28l-out">
+<li><a class="u28btn1" data-lbl="profile:sign-in-account" href="https://www.oracle.com/webapps/redirect/signon?nexturl=">Sign-In</a></li>
+<li><a class="u28btn2" data-lbl="profile:create-account" href="https://profile.oracle.com/myprofile/account/create-account.jspx">Create an Account</a></li>
+</ul>
+<ul class="u28l-in">
+<li><a data-lbl="help" href="/corporate/contact/help.html">Help</a></li>
+<li><a data-lbl="signout" href="javascript:sso_sign_out();" id="u28pfile-sout">Sign Out</a></li>
+</ul>
+</div>
+</div>
+<div class="u28-contact">
+<a class="u28contact" data-lbl="contact-sales" href="/corporate/contact/" title="Contact Sales"><span>Contact Sales</span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="u28w4" id="u28w4">
+<div class="u28w1a u28w5 clstrgt">
+<div class="u28w6">
+<!-- Search Results -->
+<div class="u28w8 u28trgt"></div>
+<div class="u28w9">
+<div class="u28result u28noresults">
+<div class="u28rw1">
+<div class="u28rw2">
+<h4>No results found</h4>
+<p>Your search did not match any results.</p>
+<p>We suggest you try the following to help find what you’re looking for:</p>
+<ul class="u28w7a">
+<li>Check the spelling of your keyword search.</li>
+<li>Use synonyms for the keyword you typed, for example, try “application” instead of “software.”</li>
+<li>Try one of the popular searches shown below.</li>
+<li>Start a new search.</li>
+</ul>
+<h5>Trending Questions</h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<nav class="u28nav" data-trackas="menu" id="u28nav">
+<a class="mnavback u28back icn-close" href="#close">Close</a>
+</nav>
+<a id="maincontent"> </a>
+</section>
+<!-- /U28v1 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- end : ocom/common/global/components/framework/layoutAssetStartBodyInfo -->
+<!-- start : ocom/common/global/components/banner -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RH01v2 -->
+<section class="rh01 rh01v2 pghero darktheme" data-ocomid="rh01" data-trackas="rh01" style="background-image:url(/a/ocom/img/rh01-about-oracle.jpg);">
+<div class="rh01w1 cwidth">
+<div class="herotitle longtitle" style="width:100%">
+<h2 style="max-width:18em">Our mission is to help people see data in new ways, discover insights, unlock endless possibilities.</h2>
+</div>
+</div>
+</section>
+<!-- /RH01v2 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- end : ocom/common/global/components/banner -->
+<!-- start : ocom/common/global/components/u03v5-breadcrumb -->
+<!-- U03v5 -->
+<nav class="u03 u03v5 u03bttns" data-ocomid="u03" data-trackas="breadcrumb">
+<div class="cwidth">
+<div class="u03w1">
+<ul>
+</ul>
+<h1>Oracle</h1>
+</div>
+</div>
+<script type="application/ld+json">
+	{
+	"@context": "https://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement":
+	  [
+	
+	  ]
+	}
+	</script>
+</nav>
+<!-- /U03v5 -->
+<!-- end : ocom/common/global/components/u03v5-breadcrumb -->
+<!-- start : ocom/common/global/components/compass/related-widgets -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC06v0 -->
+<section class="rc06 rc06v0 cpad" data-ocomid="rc06" data-trackas="press-analyst-investor">
+<div class="rc06w1 cwidth">
+<h1 class="rwaccent">Working @ Oracle</h1>
+<div class="o-crsl crsl-customjs" data-ocomid="ocrsl">
+<section class="rc06w2">
+<div class="carousel-item">
+<a class="rc06w3" data-lbl="cta-0622-about-tile1-ctrl" href="/startup/">
+<div class="rc06details">
+<div class="rc06category">Innovative</div>
+<div class="rc06title">Oracle applies enterprise expertise to startup ingenuity to solve business problems</div>
+<div class="rc06cta">Oracle for Startups details</div>
+</div>
+<div class="rc06featured"><img alt="Innovative" data-src="/a/ocom/img/rc06-internet-of-things.jpg"/></div>
+</a>
+</div>
+<div class="carousel-item">
+<a class="rc06w3" data-lbl="cta-0622-about-tile2-ctrl" href="/corporate/careers/benefits/training.html">
+<div class="rc06details">
+<div class="rc06category">Growth Centric</div>
+<div class="rc06title">Employees develop skills and achieve success alongside managers who invest in them</div>
+<div class="rc06cta">Check our training benefits</div>
+</div>
+<div class="rc06featured"><img alt="Growth Centric" data-src="/a/ocom/img/rc06-business-growth.jpg"/></div>
+</a>
+</div>
+<div class="carousel-item">
+<a class="rc06w3" data-lbl="cta-0604-about-tile3-ctrl" href="/corporate/careers/culture/who-we-are.html">
+<div class="rc06details">
+<div class="rc06category">People Oriented</div>
+<div class="rc06title">Oracle’s corporate culture values teamwork, quality, and collaboration</div>
+<div class="rc06cta">Review our core values</div>
+</div>
+<div class="rc06featured"><img alt="People Oriented" data-src="/a/ocom/img/rc06-partnerships.jpg"/></div>
+</a>
+</div>
+</section>
+</div>
+</div>
+</section>
+<!-- /RC06v0 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC11v0 -->
+<section class="rc11 rc11v0 bg-blue darktheme" data-ocomid="rc11" data-trackas="about:our-leadership">
+<div class="rc11w1 cwidth">
+<div class="rc11w2">
+<p>Learn about our leadership team and Board of Directors.</p>
+<div class="obttns">
+<div class="obttn2">
+<a data-lbl="read-their-biographies" href="/corporate/executives/">Read their biographies</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- /RC11v0 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC08v0 -->
+<a name="timeline" target="timeline"></a>
+<section class="rc08 rc08v0 cpad" data-ocomid="rc08" data-trackas="rc08">
+<div class="rc08w1">
+<div class="rc08w2 cwidth">
+<h2 class="rc08title rwaccent">A history of possibilities</h2>
+</div>
+<div class="rc08w3 rc08carousel">
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv1">
+<img alt="Birth of a Silicon Valley startup" data-src="/a/ocom/img/rc08-1977a.jpg"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Birth of a Silicon Valley startup</h3>
+<p class="rc08item-desc">Engineers Larry Ellison, Bob Miner, and Ed Oates found Software Development Laboratories. Their first office is 900-square-feet in Santa Clara, California.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">1977</div>
+</div>
+</div>
+</div>
+<!--<div class="rc08carousel-item rc08carousel-itemv0">
+				<div class="rc08item">
+					<div class="rc08item-top">
+						<div class="rc08item-anim">
+							<h3 class="rc08item-title">The CIA needs something special</h3>
+							<p class="rc08item-desc">The CIA needs a special database program and signs a deal with SDL to build it. The program&rsquo;s code name? Oracle.</p>
+						</div>
+					</div>
+					<div class="rc08item-mid">
+						<div class="rc08item-thumb rc08item-thumbv0">
+							<img data-src="/a/ocom/img/rc08-1977b.png" alt="The CIA needs something special">
+						</div>
+					</div>
+					<div class="rc08item-bot">
+						<div class="rc08item-bot-label">1977</div>
+					</div>
+					<div class="rc08item-dot"></div>
+				</div>
+			</div>-->
+<div class="rc08carousel-item rc08carousel-itemv0">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv0 rc08item-desc">
+<img alt="Oracle sees the future" data-src="/a/ocom/img/rc08-1982.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Oracle sees the future</h3>
+<p class="rc08item-desc">The company changes its name to Oracle Corporation from Relational Software Inc. (formerly SDL).</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">1982</div>
+</div>
+<div class="rc08item-dot"></div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="Oracle goes public" data-src="/a/ocom/img/rc08-1986.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Oracle goes public</h3>
+<p class="rc08item-desc">Oracle becomes a publicly traded company on the NASDAQ exchange. Quotation symbol is ORCL.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">1986</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv1">
+<img alt="World’s largest database management company" data-src="/a/ocom/img/rc08-1987.jpg"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">World’s largest database management company</h3>
+<p class="rc08item-desc">Oracle ranked as the world’s largest database management company with US$100M in sales and 4,500 end users in 55 countries.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">1987</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv0">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="Moving on up" data-src="/a/ocom/img/rc08-1989.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Moving on up</h3>
+<p class="rc08item-desc">Oracle debuts on the S&amp;P 500; outgrows old headquarters and moves to its current location in Redwood Shores, California.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">1989</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="Oracle celebrates 15 years and Oracle7 release" data-src="/a/ocom/img/rc08-1992.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Oracle celebrates 15 years and Oracle7 release</h3>
+<p class="rc08item-desc">There’s lots to celebrate with the release of game-changer Oracle7 database and the company’s 15th anniversary.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">1992</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv2">
+<img alt="Harnessing the power of the internet" data-src="/a/ocom/img/rc08-1995.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Harnessing the power of the internet</h3>
+<p class="rc08item-desc">CEO Larry Ellison introduces a product strategy for delivering Oracle software via the internet.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">1995</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv0">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Oracle Database sets the standard</h3>
+<p class="rc08item-desc">InformationWeek names Oracle Database one of the most influential products of the 1990s.</p>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="Oracle Database sets the standard" data-src="/a/ocom/img/rc08-1999.png"/>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">1999</div>
+</div>
+<div class="rc08item-dot"></div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="Oracle saves a billion—using Oracle" data-src="/a/ocom/img/rc08-2000.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Oracle saves a billion—using Oracle</h3>
+<p class="rc08item-desc">Oracle saves US$1B dollars consolidating its own systems using Oracle E-Business Suite 11i, the first fully integrated enterprise apps suite.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2000</div>
+</div>
+</div>
+</div>
+<!--<div class="rc08carousel-item rc08carousel-itemv1">
+				<div class="rc08item">
+					<div class="rc08item-top">
+						<div class="rc08item-thumb rc08item-thumbv0">
+							<img data-src="/a/ocom/img/rc08-2003.png" alt="Electronic Arts is building new worlds">
+						</div>
+					</div>
+					<div class="rc08item-mid">
+						<div class="rc08item-anim">
+							<h3 class="rc08item-title">Electronic Arts is building new worlds</h3>
+							<p class="rc08item-desc">Electronic Arts builds a secure, scalable foundation for its gaming worlds, using Oracle Database on Linux.</p>
+						</div>
+					</div>
+					<div class="rc08item-bot">
+						<div class="rc08item-bot-label">2003</div>
+					</div>
+				</div>
+			</div>-->
+<div class="rc08carousel-item rc08carousel-itemv0">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Oracle acquires PeopleSoft</h3>
+<p class="rc08item-desc">Oracle kicks off a Silicon Valley high-tech acquisition trend by buying a leader in HR and ERP apps.</p>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="Oracle acquires PeopleSoft" data-src="/a/ocom/img/rc08-2005.png"/>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2005</div>
+</div>
+<div class="rc08item-dot"></div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv1">
+<img alt="Oracle at 30 continues to grow and innovate" data-src="/a/ocom/img/rc08-2007.jpg"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Oracle at 30 continues to grow and innovate</h3>
+<p class="rc08item-desc">Oracle turns 30 with revenues of US$18B, 65,000 employees, and 275,000 customers in more than 145 countries.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2007</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv2">
+<img alt="Simply Marvel-ous" data-src="/a/ocom/img/rc08-2008.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Simply Marvel-ous</h3>
+<p class="rc08item-desc">Marvel Entertainment smashes silos and mines data using Oracle applications.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2008</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv2">
+<img alt="Hardware and software, engineered to work together" data-src="/a/ocom/img/rc08-2010.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Hardware and software, engineered to work together</h3>
+<p class="rc08item-desc">Oracle acquires Sun Microsystems, cementing its strategy to engineer hardware and software together. Becomes the steward of Java.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2010</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="Oracle Database plugs into the cloud" data-src="/a/ocom/img/rc08-2013a.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Oracle Database plugs into the cloud</h3>
+<p class="rc08item-desc">Revolutionary multitenant architecture helps deliver a secure and consolidated database cloud.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2013</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="ORACLE TEAM USA sails to second America’s Cup win" data-src="/a/ocom/img/rc08-2013b.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">ORACLE TEAM USA sails to second America’s Cup win</h3>
+<p class="rc08item-desc">ORACLE TEAM USA beats challenger Team New Zealand to win the 2013 America’s Cup yacht race, its second consecutive victory.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2013</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv1">
+<img alt="Leadership to the power of three" data-src="/a/ocom/img/rc08-2014.jpg"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Leadership to the power of three</h3>
+<p class="rc08item-desc">Safra Catz and Mark Hurd named Oracle CEOs. Founder Larry Ellison becomes chairman of the board and chief technology officer.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2014</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="Support for startups" data-src="/a/ocom/img/rc08-2015.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Support for startups</h3>
+<p class="rc08item-desc">Oracle’s startup program promoting tech entrepreneurship launches, grows to nine centers before becoming a global digital program.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2016</div>
+</div>
+</div>
+</div>
+<!--<div class="rc08carousel-item rc08carousel-itemv0">
+				<div class="rc08item">
+					<div class="rc08item-top">
+						<div class="rc08item-anim">
+							<h3 class="rc08item-title">Ringing up the data for NASA</h3>
+							<p class="rc08item-desc">NASA captures the moment of spacecraft Cassini’s last Saturn dive using Oracle’s integrated infrastructure systems.</p>
+						</div>
+					</div>
+					<div class="rc08item-mid">
+						<div class="rc08item-thumb rc08item-thumbv0">
+							<img data-src="/a/ocom/img/rc08-2017.png" alt="Ringing up the data for NASA">
+						</div>
+					</div>
+					<div class="rc08item-bot">
+						<div class="rc08item-bot-label">2017</div>
+					</div>
+					<div class="rc08item-dot"></div>
+				</div>
+			</div>-->
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv1">
+<img alt="Oracle launches the first autonomous database" data-src="/a/ocom/img/rc08-2018a.jpg"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Oracle launches the first autonomous database</h3>
+<p class="rc08item-desc">The company launches Oracle Autonomous Database, the industry’s first self-patching, self-tuning, self-managing database.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2018</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv0">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">CERN explores inner workings of the universe</h3>
+<p class="rc08item-desc">Scientific research center is using 10,000 Oracle Cloud cores to perform physics analysis.</p>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="CERN explores inner workings of the universe" data-src="/a/ocom/img/rc08-2018b.png"/>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2018</div>
+</div>
+<div class="rc08item-dot"></div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv1">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-thumb rc08item-thumbv0">
+<img alt="Barcelona biotech fights heart disease" data-src="/a/ocom/img/rc08-2019.png"/>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">Barcelona biotech fights heart disease</h3>
+<p class="rc08item-desc">ELEM computes full-heart models of diseased hearts using Oracle's high performance cloud.</p>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2019</div>
+</div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv0">
+<div class="rc08item">
+<div class="rc08item-top">
+<div class="rc08item-anim">
+<h3 class="rc08item-title">We’re taking on COVID-19</h3>
+<p class="rc08item-desc">Oracle is helping government agencies and the medical community better understand and combat the coronavirus.</p>
+</div>
+</div>
+<div class="rc08item-mid">
+<div class="rc08item-thumb rc08item-thumbv1">
+<img alt="Help fight COVID-19" data-src="/a/ocom/img/cb78-covid-nih-covpn.jpg"/>
+</div>
+</div>
+<div class="rc08item-bot">
+<div class="rc08item-bot-label">2021</div>
+</div>
+<div class="rc08item-dot"></div>
+</div>
+</div>
+<div class="rc08carousel-item rc08carousel-itemv2">
+<div class="rc08item">
+<div class="rc08item-top">
+<h3 class="rc08item-title-large">Endless<br/>possibilities</h3>
+</div>
+<div class="rc08item-dot-end"></div>
+</div>
+</div>
+</div>
+<div class="rc08w4 cwidth">
+<div class="rc08pagination"></div>
+</div>
+</div>
+</section>
+<!-- /RC08v0 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC09v0 -->
+<section class="rc09 rc09v0 darktheme" data-trackas="about:our-culture" style="background-image: url('/a/ocom/img/rc09-about-oracle.jpg')">
+<div class="rc09w1 cpad">
+<div class="rc09w2 cwidth cpad">
+<h2 class="rc09title"><span class="rwaccent">Our Culture</span></h2>
+</div>
+<div class="rc09w3 cwidth">
+<div class="rc09item rc09itemv0">
+<div class="rc09item-label">Work Here</div>
+<h3 class="rc09item-title">Want to make a difference? You’ve come to the right place.</h3>
+<div class="rc09item-footer">
+<a class="rc09item-link" data-lbl="work-here:find-opportunities" href="/corporate/careers/">Find opportunities</a>
+</div>
+</div>
+<div class="rc09item rc09itemv1 rc09item-wide">
+<div class="rc09item-label">Socially Responsible</div>
+<h3 class="rc09item-title">At Oracle, we know that sustainability is good business.</h3>
+<div class="rc09item-footer">
+<a class="rc09item-link" data-lbl="socially-responsible:learn-how" href="/corporate/citizenship/">Learn how</a>
+</div>
+</div>
+<div class="rc09item rc09itemv2 rc09item-wide">
+<div class="rc09item-label">Diverse and Inclusive</div>
+<h3 class="rc09item-title">We don’t just value differences—we celebrate them.</h3>
+<div class="rc09item-footer">
+<a class="rc09item-link" data-lbl="diverse-and-inclusive:find-out-more" href="/corporate/careers/culture/diversity.html">Find out more</a>
+</div>
+</div>
+<div class="rc09item rc09itemv3 rc09item-wide">
+<h3 class="rc09item-title"><em>“Oracle thrives because of the exceptional talent we have attracted.”</em></h3>
+<div class="rc09item-footer">
+<div class="rc09item-source">Larry Ellison<br/><em>Chairman of the Board and CTO</em></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- /RC09v0 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- end : ocom/common/global/components/compass/related-widgets -->
+<!-- start : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
+<!-- Dispatcher:null -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U10v0 -->
+<div class="u10 u10v6" data-ocomid="u10" data-trackas="ffooter" id="u10">
+<div class="u10w1">
+<div class="u10w2">
+<div class="u10w3">
+<div class="u10ttl">Resources for</div>
+<ul>
+<li><a data-lbl="resources-for:developers" href="https://developer.oracle.com/">Developers</a></li>
+<li><a data-lbl="resources-for:startups" href="/startup/">Startups</a></li>
+<li><a data-lbl="resources-for:students-educators" href="https://academy.oracle.com/en/oa-web-overview.html">Students and Educators</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w2">
+<div class="u10w3">
+<div class="u10ttl">Partners</div>
+<ul>
+<li><a data-lbl="partners:oracle-partnernetwork-ocom" href="/partnernetwork/">Oracle PartnerNetwork</a></li>
+<li><a data-lbl="partners:find-a-partner" href="https://partner-finder.oracle.com/">Find a Partner</a></li>
+<li><a data-lbl="partners:login-opn" href="/opn/index.html">Log in to OPN</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w2">
+<div class="u10w3">
+<div class="u10ttl">Solutions</div>
+<ul>
+<li><a data-lbl="emerging-technlogy:artificial-intelligence" href="/artificial-intelligence/">Artificial Intelligence</a></li>
+<li><a data-lbl="emerging-technlogy:internet-of-things" href="/internet-of-things/">Internet of Things</a></li>
+<li><a data-lbl="emerging-technlogy:blockchain" href="/blockchain/">Blockchain</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w2">
+<div class="u10w3">
+<div class="u10ttl">What’s New</div>
+<ul>
+<li><a data-adbtrack=":ow:off:ot:::GFooter100220" data-cxdtrack=":ow:off:ot:::GFooter100220" data-lbl="whatsnew:covid" href="/corporate/covid-19.html">How we’re taking on COVID-19</a></li>
+<li><a data-lbl="whatsnew:java-16-download" href="/javadownload">Java 16 download</a></li>
+<li><a data-lbl="whatsnew:cloud-trial" href="/cloud/free/?source=:ow:o:h:nav:050120SiteFooter&amp;intcmp=:ow:o:h:nav:050120SiteFooter">Try Oracle Cloud Free Tier</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w2">
+<div class="u10w3">
+<div class="u10ttl">Contact Us</div>
+<ul>
+<li><a href="tel:18006330738">US Sales: +1.800.633.0738</a></li>
+<li><a data-lbl="contact-us:how-can-we-help" href="/corporate/contact/">How can we help?</a></li>
+<!--<li><a data-lbl="contact-us:support-directory" href="/support/contact.html">Support Directory</a></li>-->
+<li><a data-lbl="contact-us:subscribe-to-emails" href="https://go.oracle.com/subscriptions">Subscribe to emails</a></li>
+</ul>
+</div>
+</div>
+<div class="u10w4">
+<hr/>
+</div>
+<div class="u10w5 u10w10" data-trackas="footer">
+<ul class="u10-cr">
+<li class="u10mtool" id="u10cmenu">
+<a class="u10ticon u10regn" data-lbl="country-region" href="/universal-menu/index.html#u10countrymenu">Country/Region</a>
+</li>
+</ul>
+<ul class="u10-links">
+<li><a data-lbl="copyright" href="/legal/copyright.html">© 2021 Oracle</a></li>
+<li><a data-lbl="site-map" href="/sitemap.html">Site Map</a></li>
+<li><a data-lbl="privacy" href="/legal/privacy/">Privacy</a><span>/</span><a data-lbl="do-not-sell-my-info" href="/legal/privacy/privacy-choices.html">Do Not Sell My Info</a></li>
+<li><div id="teconsent"></div></li>
+<li><a data-lbl="ad-choices" href="/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html#adchoices">Ad Choices</a></li>
+<li><a data-lbl="careers" href="/corporate/careers/">Careers</a></li>
+</ul>
+<ul class="scl-icons">
+<li class="scl-facebook"><a data-lbl="scl-icon:facebook" href="https://www.facebook.com/Oracle/" title="Oracle on Facebook">Facebook</a></li>
+<li class="scl-twitter"><a data-lbl="scl-icon:twitter" href="https://twitter.com/oracle" title="Follow Oracle on Twitter">Twitter</a></li>
+<li class="scl-linkedin"><a data-lbl="scl-icon:linkedin" href="https://www.linkedin.com/company/oracle/" title="Oracle on LinkedIn">LinkedIn</a></li>
+<li class="scl-youtube"><a data-lbl="scl-icon:you-tube" href="https://www.youtube.com/oracle/" title="Watch Oracle on YouTube">YouTube</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- /U10v0 -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+</div>
+<!-- Container/Display Start -->
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- Start - End Body Admin Container -->
+<!-- Start SiteCatalyst code -->
+<script language="JavaScript" src="https://www.oracleimg.com/us/assets/metrics/ora_ocom.js"></script>
+<!-- End SiteCatalyst code -->
+<!--DTM embed code - Footer -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+<!--End-->
+<!-- End - End Body Admin Container -->
+<!-- END: oWidget_C/_Raw-Text/Display -->
+<!-- Container/Display end -->
+<!-- end : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
+</body>
+<!-- end : Framework/Generic -->
+</html>

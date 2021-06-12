@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html class="ohc" lang="en-us">
+<head>
+<title>Oracle Help Center</title>
+<meta charset="utf-8"/>
+<meta content="viewport-fit=cover, width=device-width, initial-scale=1" name="viewport"/>
+<meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+<meta content="#fcfbfa" name="msapplication-TileColor"/>
+<meta content="/sp_common/book-template/ohc-common/img/o-icon/browserconfig.xml" name="msapplication-config"/>
+<meta content="/sp_common/book-template/ohc-common/img/o-icon/favicon-270.png" name="msapplication-TileImage"/>
+<meta content="none" name="msapplication-config"/>
+<meta content="Getting started guides, documentation, tutorials, architectures, and more content for Oracle products and services." property="description"/>
+<link href="css/images/favicon.ico" rel="shortcut icon"/>
+<link href="/sp_common/book-template/ohc-common/img/o-icon/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/sp_common/book-template/ohc-common/img/o-icon/favicon-128.png" rel="icon" sizes="128x128" type="image/png"/>
+<link href="/sp_common/book-template/ohc-common/img/o-icon/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/sp_common/book-template/ohc-common/img/o-icon/favicon-120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/sp_common/book-template/ohc-common/img/o-icon/favicon-152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/sp_common/book-template/ohc-common/img/o-icon/favicon-180.png" rel="apple-touch-icon" sizes="180x180"/>
+<!-- This is the main css file for the default theme -->
+<!-- injector:theme -->
+<link href="css/redwood/9.2.4/web/redwood.min.css" id="css" rel="stylesheet"/>
+<!-- endinjector -->
+<!-- This is where you would add any app specific styling -->
+<link href="css/app.css" rel="stylesheet" type="text/css"/>
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<script>window.ohcglobal || document.write('<script src="/en/dcommon/js/global.js">\x3C/script>')</script></head>
+<body class="oj-web-applayout-body">
+<div class="oj-web-applayout-page" id="globalBody">
+<header class="layout-header">
+<ocom-u02 header-title="Help Center"></ocom-u02>
+</header>
+<main class="mainContainer" main="container">
+<documentation-banner></documentation-banner>
+<labs-banner></labs-banner>
+<category-icons></category-icons>
+<featured-products></featured-products>
+<solutions-section></solutions-section>
+</main>
+<footer class="hp-footer">
+<feedback-section></feedback-section>
+<universal-footer products_az_url="/en/browseall.html"></universal-footer>
+</footer>
+</div>
+<script src="js/libs/require/require.js" type="text/javascript"></script>
+<script src="js/main.js" type="text/javascript"></script>
+<script async="async" crossorigin="" src="//consent.truste.com/notice?domain=oracle.com&amp;c=teconsent&amp;js=bb&amp;cdn=1&amp;pcookie&amp;noticeType=bb&amp;text=true"></script>
+</body>
+</html>
